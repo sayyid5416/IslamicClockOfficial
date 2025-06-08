@@ -1,6 +1,6 @@
 # 📱 Islamic Clock
 
-**Islamic Clock** is a privately developed Android app that provides Islamic timings, alarms, events, books, Hadiths, Quran, and much more.
+**Islamic Clock** is a privately developed Android app that provides Islamic timings, alarms, events, books, Hadiths, Quran, Ziyarah, Tasbeeh, and much more.
 
 ---
 
